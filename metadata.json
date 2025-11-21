@@ -1,0 +1,5 @@
+{
+  "name": "NanoEdit - AI Image Transformation",
+  "description": "Transform and edit images using text prompts powered by Gemini 2.5 Flash Image (Nano Banana).",
+  "requestFramePermissions": []
+}
